@@ -1,6 +1,5 @@
 # PHP website folder structure/template
 
-<hr>
 
 The PHP website folder template that rileydeman uses in his web projects!
 
@@ -33,8 +32,9 @@ For the styling from the site does rileydeman use sass, you are free to delete t
 - To compile sass you need to be sure that your terminal is in the assets folder and use the following command (everytime you start working on your site) in de terminal: `sass --watch --no-source-map sass/input.sass css/output.css`
 - Be sure that you connect the `.css` files to your web pages, web browsers **can't** read `.sass` and/or `.scss` files.
 
-<hr>
 
 More information soon!
+
+##  
 
 © rileydeman
