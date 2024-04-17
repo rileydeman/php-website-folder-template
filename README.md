@@ -7,14 +7,14 @@ The PHP website folder template that rileydeman uses in his web projects!
 ## Using this folder template
 
 Using of this folder structure/template is completely free of charge.
-You are allowed to fork this repository and edit all the files in this template
+You are allowed to fork and/or use this repository/template and edit all the files in this template
 
 ## Important
 
 - The homepage is not in the `index.php`, the index.php file gets automaticly the `public/home.php` file.
 - The public folder is for everything that the user sees, like all the pages, images etc.
-- The app folder is for everything that is back and, and what the user doesn't see, like adding items to a cart, etc.
-- Be sure that the folder where the `index.php` is located, is the root from your xampp, wampp, lampp or mampp software for your localhost.
+- The app folder is for everything that is back-end, and what the user doesn't see, like adding items to a cart, etc.
+- Be sure that the folder where the `index.php` is located, is the root from your xampp, wampp, lampp or mampp software for your localhost during development.
 - The `public/home.php` file has the template for a web page, including the header and footer include
 - The header and footer are in the `public/core folder`
 - The 404 page will automaticly shown at not valid urls on your localhost or website, editing the 404 page is possible in the `public/core/errors/404.php` file
@@ -37,4 +37,4 @@ More information soon!
 
 ##  
 
-© rileydeman
+(c) rileydeman
