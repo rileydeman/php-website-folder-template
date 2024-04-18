@@ -36,15 +36,15 @@ For the styling from the site does rileydeman use sass, you are free to delete t
 
 1. Go to the folder where the index.php is located
 2. Copy the path to that file
-2. Open xampp
-2. Click on "config" form the apache
-3. Click on the top link named "Apache (httpd.conf)"
-4. Scoll down until you see something like this
+3. Open xampp
+4. Click on "config" form the apache
+5. Click on the top link named "Apache (httpd.conf)"
+6. Scoll down until you see something like this
 - DocumentRoot "C:\xampp\htdocs"
 - <Directory "C:\xampp\htdocs">
-5. Paste the copied path to both, DocumentRoot and Directory, between the ""
-6. Save the file and start or restart apache
-7. Go to localhost in your web browser
+7. Paste the copied path to both, DocumentRoot and Directory, between the ""
+8. Save the file and start or restart apache 
+9. Go to localhost in your web browser
 
 
 More information soon!
