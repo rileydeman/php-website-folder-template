@@ -9,14 +9,17 @@
 
     <link rel="icon" href="">
 
+<!--    Linking of the css files-->
     <link rel="stylesheet" href="/public/assets/css/style.css">
 
+<!--    Linking of the javascript files, defer = reading/link the file at last-->
     <script defer src="/public/assets/js/app.js"></script>
 </head>
 
 <body>
 
 <header>
+<!--    Getting the header document-->
     <?php include "public/core/header.php" ?>
 </header>
 
@@ -25,6 +28,7 @@
 </main>
 
 <footer>
+<!--    Getting the footer document-->
     <?php include "public/core/footer.php" ?>
 </footer>
 
