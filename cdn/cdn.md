@@ -1,1 +1,0 @@
-# CDN (Content Delivery Network) folder template coming soon!
